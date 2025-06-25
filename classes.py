@@ -13,6 +13,7 @@ class User:
         return {
             "username": self.name,
             "password": self.password,
+            "email": self.email,
             "tasks": self.task,
         }
 
