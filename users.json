@@ -1,0 +1,37 @@
+{
+  "Ameenu": {
+    "username": "Ameenu",
+    "password": "1234",
+    "tasks": [
+      {
+        "title": "Ameenu",
+        "description": "Ameenu Tech",
+        "category": "Tech",
+        "created_at": "2025-06-25 09:08:24",
+        "due_date": "2 Days",
+        "priority": "High",
+        "status": "In Progress"
+      }
+    ]
+  },
+  "Musa": {
+    "username": "Musa",
+    "password": "1234",
+    "tasks": []
+  },
+  "Mu": {
+    "username": "Mu",
+    "password": "1234",
+    "tasks": []
+  },
+  "Wj": {
+    "username": "Wj",
+    "password": "245",
+    "tasks": []
+  },
+  "Muh": {
+    "username": "Muh",
+    "password": "1234",
+    "tasks": []
+  }
+}
